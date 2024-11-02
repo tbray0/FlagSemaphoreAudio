@@ -1,0 +1,63 @@
+Received: E
+Received: Whoops!! The next iterations are only on the motor...
+Received: What are the next 8 encodings?
+Sent: KJUEZEEJ
+Received: K
+Received: J
+Received: U
+Received: E
+Received: Z
+Received: E
+Received: E
+Received: J
+Received: Phase 1 Complete!! Please put the sequence encoding in your report.
+Received: /************************************************************************/
+Received: PHASE 2 - EXTREME ACCOUNTABLILITY! THE ONLY FACTOR
+Received: IN YOUR SUCCESS IS YOU!
+Received: /************************************************************************/
+Received: Encodings (for the first few iterations):
+Received: 2
+Received: 3
+Received: 4
+Received: 5
+Received: 7
+Received: Whoops!! The next iterations are only on the motor...
+Received: What are the next 16 encodings?
+Sent: 1271379391471391
+Received: 1
+Received: 2
+Received: 7
+Received: 1
+Received: 3
+Received: 7
+Received: 9
+Received: 3
+Received: 9
+Received: 1
+Received: 4
+Received: 7
+Received: 1
+Received: 3
+Received: 9
+Received: 1
+Received: Phase 2 Complete!! Please put the sequence encoding in your report.
+Received: /************************************************************************/
+Received: PHASE 3 - NOW THAT YOU ARE ALL PRIMED FOR SUCCESS!
+Received: /************************************************************************/
+Received: Encodings (for the first few iterations):
+Received: b
+Received: c
+Received: e
+Received: g
+Received: Whoops!! The next iterations are only on the motor...
+Received: What are the next 8 encodings?
+Sent: cdefkopq
+Received: c
+Received: d
+Received: e
+Received: f
+Received: k
+Received: o
+Received: p
+Received: q
+Received: Incorrect Sequence!! Try Again...
